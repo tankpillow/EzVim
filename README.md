@@ -1,2 +1,2 @@
-# nvimrc
+# TankVIM
 My NeoVim RC
